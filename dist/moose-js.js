@@ -1062,7 +1062,7 @@ module.exports = {
  */
 
 function beginEpochTime () {
-	return new Date(Date.UTC(2017, 7, 9, 20, 0, 0, 0));
+	return new Date(Date.UTC(2017, 6, 9, 20, 0, 0, 0));
 }
 
 /**
